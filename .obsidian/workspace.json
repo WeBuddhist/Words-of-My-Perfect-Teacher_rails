@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/kunzang-lama-zhelung-zinbris-segmented.md",
+                "file": "1-SOURCES/Text/kunzang-lama-zhelung-root-segmented.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kunzang-lama-zhelung-zinbris-segmented"
+              "title": "kunzang-lama-zhelung-root-segmented"
             }
           }
         ]
@@ -188,5 +188,11 @@
     }
   },
   "active": "536baa060535dc8f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "1-SOURCES/Text/ཀུན་བཟང་བླ་མའི་ཞལ་ལུང་།.md",
+    "1-SOURCES/Text/kunzang-lama-zhelung-root-segmented.md",
+    "1-SOURCES/Commentaries/ཀུན་བཟང་བླ་མའི་ཞལ་ལུང་གི་ཟིན་བྲིས།.md",
+    "1-SOURCES/Commentaries/kunzang-lama-zhelung-zinbris-segmented.md",
+    "1-SOURCES/Text/kunzang-lama-zhelung-zinbris-segmented.md"
+  ]
 }
