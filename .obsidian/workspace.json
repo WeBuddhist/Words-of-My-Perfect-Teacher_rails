@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/segmented_doc2.md",
+                "file": "1-SOURCES/Commentaries/ཀུན་བཟང་བླ་མའི་ཞལ་ལུང་གི་ཟིན་བྲིས།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "segmented_doc2"
+              "title": "ཀུན་བཟང་བླ་མའི་ཞལ་ལུང་གི་ཟིན་བྲིས།"
             }
           }
         ]
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,6 +199,7 @@
   },
   "active": "536baa060535dc8f",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/segmented_doc2_continued.md",
     "1-SOURCES/Commentaries/ཀུན་བཟང་བླ་མའི་ཞལ་ལུང་གི་ཟིན་བྲིས།.md",
     "1-SOURCES/Text/segmented_doc2.md",
     "1-SOURCES/Text/ཀུན་བཟང་བླ་མའི་ཞལ་ལུང་།.md",
